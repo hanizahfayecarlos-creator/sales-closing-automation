@@ -119,6 +119,10 @@ Testing focuses on:
 
 The goal is to demonstrate a practical, maintainable sales automation system that reduces repetitive administrative work while allowing the business owner to remain in control of important client interactions.
 
+## 🏗️ Architecture
+
+![Sales & Closing Automation Architecture](docs/sales-closing-architecture.png)
+
 ## 📁 Documentation
 
 Detailed documentation is available in:
